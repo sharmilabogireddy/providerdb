@@ -1,7 +1,5 @@
 {
-  "EIPData": {
-    "RESULT": {
-      "SIMPLEQUERY": [{
+   "SIMPLEQUERY": [{
         "CHCLAIMID": "65600001",
         "PATIENTCTRLNBR": "P87089701",
         "REPRICECLAIMNUM": "65600001",
@@ -132,6 +130,6 @@
         "REPRICEALLOW": "34.22",
         "REPRICESAVE": "45678.78"
       }]
-    }
-  }
+    
+  
 }
